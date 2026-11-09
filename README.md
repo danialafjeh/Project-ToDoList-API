@@ -10,7 +10,7 @@ A secure and fully functional To-Do List REST API built with Django REST Framewo
 
 The API follows a permission-based architecture where users can only access and manage their own resources, while administrators have additional privileges for system-wide management and monitoring.
 
-‼️NOTE: This is a portfolio project and it's not a deployed project. so all information saved in database are available and just for examples! there is no real sensitive info.
+‼️NOTE: Demo/sample information are available too becouse of SQLite3 DB file.
 
 ---
 
