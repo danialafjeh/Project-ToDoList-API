@@ -4,7 +4,7 @@
 
 # To-Do List REST API
 
-Complexity : Intermediate
+Complexity : Basic
 
 A secure and fully functional To-Do List REST API built with Django REST Framework (DRF). This project demonstrates authentication, authorization, user management, task management, pagination, search functionality, and API documentation using Swagger/OpenAPI.
 
